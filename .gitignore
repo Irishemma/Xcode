@@ -1,5 +1,5 @@
 Xcode_Github.xcodeproj
-
+~/Xcode_Github.xcodeproj
 # 排除build目录
 build/*
  
@@ -19,3 +19,5 @@ build/*
 *.perspectivev3
 *.pbxuser
 xcuserdata
+
+.gitignore
